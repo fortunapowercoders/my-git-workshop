@@ -15,7 +15,7 @@ like GitHub too, format nicely as HTML.
 
 What does Git do when initialising a local repository?
 
-* it creat a new directory
+* it creat a new directory,creat new directory
 
 
 ### Saving my changes
